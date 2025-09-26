@@ -1,0 +1,12 @@
+.navList {
+  display: flex;
+  list-style: none;
+  justify-content: space-evenly;
+}
+.navLink {
+  text-decoration: none;
+}
+
+.AppBar {
+  background-color: rgb(132, 165, 165) !important;
+}
